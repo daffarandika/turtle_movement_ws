@@ -1,0 +1,9 @@
+go_to_goal:
+  ros__parameters:
+    kp_angular: 6.505
+    ki_angular: 0.2
+    kd_angular: 0.75
+    kp_linear: 0.45
+    distance_tolerance: 0.1
+    angle_tolerance: 0.05
+    near_goal_distance: 1.0

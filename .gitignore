@@ -1,0 +1,7 @@
+**/install
+**/build
+**/log*
+**/.catkin_workspace
+**/.vscode
+**.pyc
+**/.cache/
