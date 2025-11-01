@@ -2,7 +2,7 @@
 ![hasil](./output.png)
 
 ## Penjelasan Singkat
-Program menggambarkan logo ITS Robocon menggunakan turtlesim_node, program ini bekerja dengan memanfaatkan action server. Action server ini berfungsi menggerakan turtle ke koordinat yang diinginkan dan menggunakan PID untuk meng-kontol posisi dan hadapan.
+Program menggambarkan logo ITS Robocon menggunakan turtlesim_node, program ini bekerja dengan memanfaatkan action server. Action server ini berfungsi menggerakan turtle ke koordinat yang diinginkan dan menggunakan PID untuk meng-kontrol posisi dan hadapan.
 
 ## Cara menjalankan program
 ```bash
